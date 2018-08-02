@@ -1,0 +1,7 @@
+2886ef4d59767670ca29245044396fde *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+f2e41048e029f8ad0f204a528245a347 *R/Read.mnist.R
+77d8d5848b052cf1fef8fcd458452716 *build/partial.rdb
+27ae3e4e09519cfbb04c329615203637 *inst/exdata/t10k-labels.idx1-ubyte
+f6225a0eca1244867556b20ce7e3b6f7 *man/Read.mnist.Rd
+c41131baab1d461e4e6c7ae61dc4092c *man/readmnist-package.Rd
